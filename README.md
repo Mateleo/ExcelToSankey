@@ -1,9 +1,9 @@
 # ExcelToSankey
 ## Overview
-ExcelToSankey is a simple web application built with Vue.js and Tailwind CSS. It takes a specific input format and transforms it into a Shankey diagram-friendly output.
+ExcelToSankey is a simple web application built with Vue.js and Tailwind CSS. It takes a specific input format and transforms it into a Sankey diagram-friendly output.
 
 ## Features
-1 - **Input Transformation:** The application transforms input data in a specific format into a format suitable for creating Shankey diagrams.
+1 - **Input Transformation:** The application transforms input data in a specific format into a format suitable for creating Sankey diagrams.
 
 2 - **Interactive Interface:** Users can input data in the provided textarea and see the transformed output in real-time.
 
