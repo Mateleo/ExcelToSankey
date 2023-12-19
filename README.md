@@ -9,8 +9,13 @@ ExcelToShankey is a simple web application built with Vue.js and Tailwind CSS. I
 
 3 - **Epargne Calculation:** The application calculates the savings (Epargne) based on the input data.
 
-# Technologies Used
-Vue.js: Frontend JavaScript framework.
-Tailwind CSS: Utility-first CSS framework.
+# Usage
+You have to use a format like this one.  
+SORTIE and ENTREE seperate the flows.
+You can use subcategories with a "*" before the name. (You still need to compute the sum of the parent category) 
 
-![Exemple Image](https://github.com/Mateleo/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Exemple Image](https://github.com/Mateleo/ExcelToSankey/blob/master/public/exemple.PNG?raw=true)
+
+# Technologies Used
+Vue.js: Frontend JavaScript framework.  
+Tailwind CSS: Utility-first CSS framework.
