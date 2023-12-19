@@ -48,7 +48,7 @@ function transformInput(input: string) {
 <template>
   <div class="bg-gray-800 h-screen flex justify-center items-center">
     <div class="w-full">
-      <h1 class="text-white font-bold text-3xl lg:text-6xl font-mono text-center mb-12">ExcelToShankey</h1>
+      <h1 class="text-white font-bold text-3xl lg:text-6xl font-mono text-center mb-12">ExcelToSankey</h1>
       <div class="flex gap-12 md:w-[80%] m-auto">
         <div class="bg-white p-4 rounded-md shadow-lg shadow-white/30 w-full aspect-square">
           <label for="input" class="block text-sm font-medium text-gray-700">Input</label>
