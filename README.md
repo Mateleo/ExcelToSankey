@@ -10,11 +10,13 @@ ExcelToSankey is a simple web application built with Vue.js and Tailwind CSS. It
 3 - **Epargne Calculation:** The application calculates the savings (Epargne) based on the input data.
 
 # Usage
+Go to this website : https://sankeymatic.com/build/
 You have to use a format like this one.  
 SORTIE and ENTREE seperate the flows.
-You can use subcategories with a "*" before the name. (You still need to compute the sum of the parent category) 
+You can use subcategories with a "*" before the name. (You still need to compute the sum of the parent category)
 
 ![Exemple Image](https://github.com/Mateleo/ExcelToSankey/blob/master/public/exemple.PNG?raw=true)
+![Exemple Image](https://github.com/Mateleo/ExcelToSankey/blob/master/public/sankey.png?raw=true)
 
 # Technologies Used
 Vue.js: Frontend JavaScript framework.  
