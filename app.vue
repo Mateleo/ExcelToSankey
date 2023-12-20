@@ -39,7 +39,7 @@ function transformInput(input: string) {
     }
   });
 
-  if (currentEntryTotal < globalTotal) {
+  if (currentEntryTotal < globalTotal && currentEntryTotal!==0) {
     output.push(`Epargne [${Math.round(globalTotal - currentEntryTotal)}] Budget`);
   }
   return output.join("\n");
